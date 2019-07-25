@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\RIKel\\.platformio\\penv\\Scripts;C:\\Users\\RIKel\\.platformio\\penv;C:\\Python27\\;C:\\Python27\\Scripts;C:\\ProgramData\\Boxstarter;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\RIKel\\.dnx\\bin;C:\\Program Files\\Microsoft DNX\\Dnvm\\;C:\\ProgramData\\chocolatey\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\GtkSharp\\2.12\\bin;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Python\\Python36-32\\;D:\\MicrosoftChecksumUtility;C:\\Users\\RIKel\\AppData\\Local\\Microsoft\\WindowsApps;C:\\tools\\bin;C:\\Program Files\\Microsoft VS Code\\bin;;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\RIKel\\AppData\\Roaming\\npm;C:\\Python27\\;C:\\Python27\\Scripts;C:\\ProgramData\\Boxstarter;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Users\\RIKel\\.dnx\\bin;C:\\Program Files\\Microsoft DNX\\Dnvm\\;C:\\ProgramData\\chocolatey\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\GtkSharp\\2.12\\bin;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\nodejs\\;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts\\;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Python\\Python36-32\\;D:\\MicrosoftChecksumUtility;C:\\Users\\RIKel\\AppData\\Local\\Microsoft\\WindowsApps;C:\\tools\\bin;C:\\Program Files\\Microsoft VS Code\\bin;;C:\\Users\\RIKel\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\RIKel\\AppData\\Roaming\\npm",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp"
+    }
+}
